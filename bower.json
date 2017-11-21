@@ -24,9 +24,11 @@
     "iron-resizable-behavior": "^2.0.0",
     "polymer": "^2.0.0",
     "vaadin-control-state-mixin": "^1.1.4",
-    "vaadin-overlay": "^1.2.2",
-    "vaadin-text-field": "^1.0.0",
-    "vaadin-themable-mixin": "^1.1.0"
+    "vaadin-overlay": "vaadin/vaadin-overlay#valo-proto",
+    "vaadin-text-field": "vaadin/vaadin-text-field#valo-proto",
+    "vaadin-themable-mixin": "^1.1.0",
+    "vaadin-valo-theme": "vaadin/vaadin-valo-theme#master",
+    "vaadin-item": "vaadin/vaadin-item#valo-proto"
   },
   "devDependencies": {
     "iron-ajax": "^2.0.0",
